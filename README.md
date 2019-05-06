@@ -27,4 +27,7 @@ Smart contract is published in Ethereum blockchain.
 
 Address:https://etherscan.io/address/0xdb13025b219db5e4529f48b65ff009a26b6ae733#tokentxns
 
+Acknowledgments
+    Ubrica Team
+
 Copyright 2018, Ubrica Ltd.
